@@ -1,8 +1,0 @@
-[Sun Oct 21 00:15:42 2012] [info] Listening at "http://*:3000".
-[Sun Oct 21 00:17:27 2012] [info] Listening at "http://*:3000".
-[Sun Oct 21 00:25:17 2012] [debug] Your secret passphrase needs to be changed!!!
-[Sun Oct 21 00:26:23 2012] [debug] GET / (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
-[Sun Oct 21 00:26:23 2012] [debug] Routing to controller "Adversity::Example" and action "welcome".
-[Sun Oct 21 00:26:23 2012] [debug] Rendering template "example/welcome.html.ep".
-[Sun Oct 21 00:26:23 2012] [debug] Rendering template "layouts/default.html.ep".
-[Sun Oct 21 00:26:23 2012] [debug] 200 OK (0.012759s, 78.376/s).
