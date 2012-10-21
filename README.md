@@ -7,6 +7,10 @@ Specifically, Adversity is a character generator for the
 [GURPS 4th edition](http://www.sjgames.com/gurps/)
 tabletop roleplaying game.
 
+To say that it is 'under construction' would be an understatement;
+there's really nothing here yet.
+I'm putting this in Github just so I can keep all my dev environments in sync.
+
 This original portion of this software is copyright 2012 Kevin Shaum
 and is available under the [GNU Lesser General Public License (LGPL)](http://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License).
 It also includes components of other open source software,
